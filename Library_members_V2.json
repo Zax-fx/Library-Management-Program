@@ -1,0 +1,30 @@
+{
+    "M2119857": {
+        "username": "Jaylan",
+        "pin": 2222,
+        "borrowed books": [
+            "B0001"
+        ],
+        "records": [
+            "29-07-2026 13:29\nBorrowed: The Hobbit",
+            "29-07-2026 13:30\nReturned: The Hobbit",
+            "29-07-2026 14:48\nBorrowed: The Hobbit"
+        ]
+    },
+    "M7368198": {
+        "username": "Kawsu",
+        "pin": 3333,
+        "borrowed books": [
+            "B0001"
+        ],
+        "records": [
+            "29-07-2026 18:57\nBorrowed: The Hobbit"
+        ]
+    },
+    "M3531830": {
+        "username": "jaiteh",
+        "pin": 4444,
+        "borrowed books": [],
+        "records": []
+    }
+}

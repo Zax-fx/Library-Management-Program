@@ -1,0 +1,82 @@
+{
+    "B0001": {
+        "title": "The Hobbit",
+        "author": "J.R.R Tolkien",
+        "genre": "Fantasy",
+        "year": 1937,
+        "copies": 2,
+        "available": 0
+    },
+    "B0002": {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "author": "J.R Rowling",
+        "genre": "Fantasy",
+        "year": 1997,
+        "copies": 3,
+        "available": 3
+    },
+    "B0003": {
+        "title": "1984",
+        "author": "Greoge \tOrwell",
+        "genre": "Dystopian",
+        "year": 1949,
+        "copies": 4,
+        "available": 4
+    },
+    "B0004": {
+        "title": "To Kill A Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Fiction",
+        "year": 1960,
+        "copies": 5,
+        "available": 5
+    },
+    "B0005": {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Classic",
+        "year": 1925,
+        "copies": 4,
+        "available": 4
+    },
+    "B0006": {
+        "title": "Dune",
+        "author": "Frank Herbert",
+        "genre": "Science Fiction",
+        "year": 1965,
+        "copies": 6,
+        "available": 6
+    },
+    "B0007": {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "genre": "Self-Help",
+        "year": 2018,
+        "copies": 2,
+        "available": 2
+    },
+    "B0008": {
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "genre": "Fiction",
+        "year": 1988,
+        "copies": 3,
+        "available": 3
+    },
+    "B0009": {
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "genre": "Mystery",
+        "year": 2003,
+        "copies": 4,
+        "available": 4
+    },
+    "B0010": {
+        "title": "Sapiens",
+        "author": "Yuval Noah Harari",
+        "genre": "History",
+        "year": 2011,
+        "copies": 9,
+        "available": 9
+    }
+}
