@@ -2,7 +2,6 @@ import json
 import random
 from datetime import datetime
 
-
 def timestamp():
     return datetime.now().strftime("%d-%m-%Y %H:%M")
 
@@ -42,8 +41,7 @@ class Book:
         if self.available > 0:
             self.available -= 1
             return True
-        else:
-            return False
+        return False
 
     def return_copy(self):
 
@@ -74,6 +72,7 @@ class Member:
             "borrowed books": borrowed_book_ids,
             "records": self.records
         }
+
     def borrow_book(self, book):
 
         if book in self.borrowed_books:
@@ -347,6 +346,7 @@ class Library:
         self.members[member_id] = member
         self.save_members()
         return member
+
     def borrow_book(self, member_id, title):
 
         member = self.find_member(member_id)
@@ -642,9 +642,7 @@ class Library:
             else:
                 print("Invalid option")
 
-
 # MAIN
-
 
 library = Library()
 library.load_data()
